@@ -1,0 +1,10 @@
+ Volume in drive C is Data
+ Volume Serial Number is 661A-02B2
+
+ Directory of C:\Users\kura.preethi\OneDrive - HCL Technologies Ltd\Desktop\Mysample
+
+04/28/2022  02:02 PM    <DIR>          .
+04/28/2022  02:02 PM    <DIR>          ..
+04/28/2022  02:02 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  385,581,838,336 bytes free
